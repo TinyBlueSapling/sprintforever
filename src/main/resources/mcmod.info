@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sprintforever",
+  "name": "SprintForever",
+  "description": "A mod to *toggle* sprint in 1.8.9 by pressing ctrl.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TinyBlueSapling"],
+  "credits": "owo",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
